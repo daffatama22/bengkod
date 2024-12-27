@@ -47,7 +47,7 @@
         </a>
         <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
             <div class="dropdown-divider"></div>
-            <a href="http://<?= $_SERVER['HTTP_HOST']?>/bk_afiq/pages/auth/destroy.php" class="dropdown-item">Logout</a>
+            <a href="http://<?= $_SERVER['HTTP_HOST']?>/bk/pages/auth/destroy.php" class="dropdown-item">Logout</a>
         </div>
     </li>
 </ul>
@@ -118,7 +118,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                    <a href="http://<?= $_SERVER['HTTP_HOST']?>/bk_afiq/pages/auth/destroy.php" class="nav-link">
+                    <a href="http://<?= $_SERVER['HTTP_HOST']?>/bk/pages/auth/destroy.php" class="nav-link">
                            
                             <p>
                                 Logout
@@ -172,7 +172,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                    <a href="http://<?= $_SERVER['HTTP_HOST']?>/bk_afiq/pages/auth/destroy.php" class="nav-link">
+                    <a href="http://<?= $_SERVER['HTTP_HOST']?>/bk/pages/auth/destroy.php" class="nav-link">
                            
                             <p>
                                 Logout
@@ -200,7 +200,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                    <a href="http://<?= $_SERVER['HTTP_HOST']?>/bk_afiq/pages/auth/destroy.php" class="nav-link">
+                    <a href="http://<?= $_SERVER['HTTP_HOST']?>/bk/pages/auth/destroy.php" class="nav-link">
                            
                             <p>
                                 Logout
